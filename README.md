@@ -38,4 +38,3 @@ This app features a **smooth onboarding experience** with custom animations, hap
 ## 📬 Contact  
 For any questions or collaborations, feel free to reach out:  
 - **Email**: [aranfononi@gmail.com](mailto:aranfononi@gmail.com)  
-- **LinkedIn**: [Aran Fononi](https://www.linkedin.com/in/aran-fononi-18182b265)  
